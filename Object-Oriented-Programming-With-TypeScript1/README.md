@@ -1,1 +1,2 @@
-# Class-16-8-July-2024-
+# ts_opp
+Code for object oriented typescript class
